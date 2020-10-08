@@ -1,0 +1,13 @@
+{
+  "name": "gherkin-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Youssef Meskini <youss.meskini@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@cucumber/cucumber": "^7.0.0-rc.0"
+  },
+  "scripts": {
+    "bdd": "cucumber-js features/**"
+  }
+}
